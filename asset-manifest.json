@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/basic-name-search-react/static/css/main.20491ba0.chunk.css",
+    "main.js": "/basic-name-search-react/static/js/main.b2f537ac.chunk.js",
+    "main.js.map": "/basic-name-search-react/static/js/main.b2f537ac.chunk.js.map",
+    "runtime-main.js": "/basic-name-search-react/static/js/runtime-main.f236b656.js",
+    "runtime-main.js.map": "/basic-name-search-react/static/js/runtime-main.f236b656.js.map",
+    "static/js/2.1500176c.chunk.js": "/basic-name-search-react/static/js/2.1500176c.chunk.js",
+    "static/js/2.1500176c.chunk.js.map": "/basic-name-search-react/static/js/2.1500176c.chunk.js.map",
+    "static/js/3.65e8fff3.chunk.js": "/basic-name-search-react/static/js/3.65e8fff3.chunk.js",
+    "static/js/3.65e8fff3.chunk.js.map": "/basic-name-search-react/static/js/3.65e8fff3.chunk.js.map",
+    "index.html": "/basic-name-search-react/index.html",
+    "static/css/main.20491ba0.chunk.css.map": "/basic-name-search-react/static/css/main.20491ba0.chunk.css.map",
+    "static/js/2.1500176c.chunk.js.LICENSE.txt": "/basic-name-search-react/static/js/2.1500176c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f236b656.js",
+    "static/js/2.1500176c.chunk.js",
+    "static/css/main.20491ba0.chunk.css",
+    "static/js/main.b2f537ac.chunk.js"
+  ]
+}
